@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jp-2302, aka João Domingues
-- 👀 I’m interested in Formula 1
-- 🌱 I’m currently learning C
+- 🎓 Bachelor's in Engineering and Management of Information Systems
+- 🎓 Master's ijn International Business
+- 🔗 https://www.linkedin.com/in/joãopedrodomingues
 - 💞️ I’m not looking to collaborate on anything specific at the moment
 - 📫 How to reach me: joaopedrodesousadomingues23@gmail.com
 
